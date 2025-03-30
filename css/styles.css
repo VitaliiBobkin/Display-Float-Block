@@ -2,7 +2,6 @@
 
 .container {
     max-width: 1200px;
-    max-height: 1200px;
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -114,6 +113,17 @@
     text-align: center;
 }
 
+.url-float {
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.url-float:hover {
+    color: coral; 
+}
+.url-float:active {
+    color: darkred;
+}
 
 
 
